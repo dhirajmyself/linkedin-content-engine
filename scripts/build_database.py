@@ -1,0 +1,1 @@
+print("Build database pipeline placeholder")
